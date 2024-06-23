@@ -1,0 +1,31 @@
+#parent{
+    
+    width: 250px;
+    height: 400px;
+   
+    
+   
+}
+.box1{
+    width: 200px;
+    height: 250px;
+   
+   margin: auto;
+    
+}
+.box2{
+    width: 200px;
+    height: 50px;
+   
+    margin: auto;
+}
+.box3{
+    width: 200px;
+    height:40px;
+   
+    margin: auto;
+    color: orangered;
+}
+#head{
+    display: flex;
+}
